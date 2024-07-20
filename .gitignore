@@ -166,7 +166,6 @@ experiments/*
 #Prod Config Files
 *.dce-prod1
 
-*.ipynb
 .ipynb_checkpoints/*
 
 .coverage
