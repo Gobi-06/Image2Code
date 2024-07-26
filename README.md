@@ -1,6 +1,11 @@
 # Image2Code
 
+<a href="https://github.com/user-attachments/assets/a68afce1-cebb-4489-a1c8-e80569c90593">
+  <img src="https://github.com/user-attachments/assets/a68afce1-cebb-4489-a1c8-e80569c90593" alt="Image2Code Generator" style="width:600px;height:400px;">
+</a>
+
 ## Overview
+
 
 Image2Code aims to provide multiple methods to convert a graphical user interface (GUI) image screenshot into corresponding CSS and HTML code. This project explores and implements various techniques to achieve this conversion efficiently and accurately.
 It demonstrates that deep learning methods can be leveraged to train a model end-to-end to automatically generate code from a single input image.
