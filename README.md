@@ -11,7 +11,8 @@ It implements the following approaches for Image to Code Generation
 
 ## Pix2Code Demo
 
-Check out our demo here: [Pix2Code Demo](https://github.com/user-attachments/assets/6db80978-cd63-4d30-8717-3c941cc0cd31)
+https://github.com/user-attachments/assets/6db80978-cd63-4d30-8717-3c941cc0cd31
+
 
 ## Table of Contents
 
